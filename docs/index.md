@@ -9,8 +9,8 @@ This is a Rust cli that uses odbc to run a query from a file, log the query and 
 ## Database Support
 Pending
     
-    - Informix
+- Informix
 
 Contribute?
     
-    - Postgres
+- Postgres
